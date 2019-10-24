@@ -22,8 +22,8 @@ changeF - does nothing.
                                                
 1.) The user will be prompted to enter the amount of dollars and ccents that need to be broke down.  
 2.) A number will be hold the input in a scanner called in and held in the variable number.   
-3.) dollars will be parsed into an integer.    
-4.) dollars will be subtracted from numbers and placed in ChangeA's place holder.   
+3.) Dollars will be parsed into an integer.    
+4.) Dollars will be subtracted from numbers and placed in ChangeA's place holder.   
    -This will give a whole number to work with in the program.  
 5.) changeA will be multiplied by .5 percent and placed in changeB.    
 6.) changeA will then be divided by .5 and placed in changeA's holder.     
