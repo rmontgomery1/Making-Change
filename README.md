@@ -1,6 +1,7 @@
 # Making-Change
-makes change from a dollar amount entered.  
-                                                      -Variables-
+Makes change from a dollar amount entered.    
+
+                                                  -Variables-
 
 number - used to hold the users value.    
 dimes - used to initalize the amount of dimes the user needs.  
